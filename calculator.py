@@ -5,7 +5,7 @@ print("Welcome to the basic Calculator in Python!")
 # Take user input
 dig1 = float(input("Enter first numeral: "))
 operator = input("Choose operation (+, -, *, /, %): ")
-dig2 = float(input("Enter second number: "))
+dig2 = float(input("Enter second numeral: "))
 
 # Execute calculation
 if operator == "+":
